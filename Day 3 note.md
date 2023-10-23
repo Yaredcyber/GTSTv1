@@ -1,8 +1,7 @@
-**Linux for user**
-**Applications in kali Linux**
+## Linux for user
+### Applications in kali Linux
 1. Information gathering : it includes tools to gather information like Dmitry, maltego
-2. Vulnerability analysis: tools for  finding vulnerability. In vulnerability assessment we will be given a checklist to work on or to test. its similar with penetration testing. vulnerability assessment differs from penetration testing in that penetration testing has a wider scope test. 
-- proactive means penetration testing before the damage occurs. reactive is solving after the damage occurred like deleting virus 
+2. Vulnerability analysis: tools for  finding vulnerability. In vulnerability assessment we will be given a checklist to work on or to test. its similar with penetration testing. vulnerability assessment differs from penetration testing in that penetration testing has a wider scope test. proactive means penetration testing before the damage occurs. reactive is solving after the damage occurred like deleting virus 
 3. web application analysis - tools to find vulnerability on websites like ZAP , WPscan 
 4. Database assessment -tools for finding vulnerabilities  on data bases like Sqimap. database is a place where data of users of that application is put 
 5. password attacks- tools for exploiting passwords for login, websites, application like hashcat, Johnny 
@@ -19,16 +18,16 @@
      # Linux commands
      Linux systems use shell which help us to communicate with the kernel and helps to execute code. default shell type of kali is ZSH
      shell(terminal) have five parts- username, hostname, current directory, privilege, command place . directory means folder according to Linux. Linux commands have their own options and arguments.
-     **ls-l** detailed info about folders
-     **ls-a** shows hidden files also
-     **ls-R** give the file in every folder
-     **ls-Rla** includes all the above commands 
-     **cd/** take us to root directory 
-     **echo 'text' >>filename** it will not delete previous files in that file or folder, it only adds 
-     **rm**  removes empty file
-     **rm-r** to delete folders that have files in them
-     **rm-i**  for prompt 
-     **cp../[old file place]../[new file place]** command if we are on another folder and we want to copy a file from home to another folder in home [..]this will change the current working directory 
-     **grep-i** shows all capital and small letter words of that particular search
+    -  `ls-l`  *detailed info about folders*
+     - `ls-a` *shows hidden files also*
+     - `ls-R` *give the file in every folder*
+     - `ls-Rla` *includes all the above commands*
+     - `cd/` *take us to root directory*
+     - `echo 'text' >>filename` *it will not delete previous files in that file or folder, it only adds*
+     - `rm`  *removes empty file*
+     - `rm-r` *to delete folders that have files in them*
+     - `rm-i`  *for prompt*
+     - ** `cp../[old file place]../[new file place]` *command if we are on another folder and we want to copy a file from home to another folder in home [..]this will change the current working directory 
+     **grep-i** shows all capital and small letter words of that particular search*
      
      
