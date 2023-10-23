@@ -29,6 +29,6 @@
      **rm-r** to delete folders that have files in them
      **rm-i**  for prompt 
      **cp../[old file place]../[new file place]** command if we are on another folder and we want to copy a file from home to another folder in home [..]this will change the current working directory 
-     **grep-i** shows all capital and small letter words of that particular search
+     - *grep-i** shows all capital and small letter words of that particular search
      
      
